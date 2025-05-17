@@ -21,12 +21,6 @@ Scan History: Save and review previous scans with date, image, and analysis
 Multi-Camera Support: Switch between available device cameras for optimal scanning
 Accessible UI: Clean, intuitive interface with clear visual indicators
 
-Screenshots
-<div style="display: flex; justify-content: space-between;">
-  <img src="/api/placeholder/180/320" alt="Home Screen" />
-  <img src="/api/placeholder/180/320" alt="Camera Screen" />
-  <img src="/api/placeholder/180/320" alt="Results Screen" />
-</div>
 Technical Details
 Requirements
 
